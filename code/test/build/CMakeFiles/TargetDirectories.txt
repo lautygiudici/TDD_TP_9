@@ -1,0 +1,5 @@
+/media/kevin/Nuevo vol/ESTUDIO/ISFT_151/Segundo/Algoritmos y Estructura de Datos II/segundo cuatrimestre/testing/code/test/build/CMakeFiles/testConsole.out.dir
+/media/kevin/Nuevo vol/ESTUDIO/ISFT_151/Segundo/Algoritmos y Estructura de Datos II/segundo cuatrimestre/testing/code/test/build/CMakeFiles/testDroneDelivery.out.dir
+/media/kevin/Nuevo vol/ESTUDIO/ISFT_151/Segundo/Algoritmos y Estructura de Datos II/segundo cuatrimestre/testing/code/test/build/CMakeFiles/test.dir
+/media/kevin/Nuevo vol/ESTUDIO/ISFT_151/Segundo/Algoritmos y Estructura de Datos II/segundo cuatrimestre/testing/code/test/build/CMakeFiles/edit_cache.dir
+/media/kevin/Nuevo vol/ESTUDIO/ISFT_151/Segundo/Algoritmos y Estructura de Datos II/segundo cuatrimestre/testing/code/test/build/CMakeFiles/rebuild_cache.dir
